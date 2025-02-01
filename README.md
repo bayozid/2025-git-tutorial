@@ -3,4 +3,5 @@ This repo is for the MIT iQuHACK 2025 git tutorial.
 
 # Hackers @ MIT iQuHACK 2025 
 
-Enter your name here:
+Enter your name here: Md. Bayozid Hossen
+
